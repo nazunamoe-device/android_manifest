@@ -124,7 +124,7 @@
   <!-- Services repos -->
   <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="cherish" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="cherish" />
-  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="cherish" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" revision="test" remote="cherish" />
 
   <!-- System repos -->
   <project path="system/bt" name="android_system_bt" remote="cherish" />
