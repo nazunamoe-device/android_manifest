@@ -28,6 +28,10 @@
            fetch="https://github.com/Octavi-OS"
            revision="refs/heads/11" />
 
+  <remote  name="nazunamoe2"
+           fetch="https://github.com/nazunamoe" 
+           revision="refs/heads/eleven" />
+
   <remote name="gitlab"
           fetch="https://gitlab.com" />
   
@@ -104,7 +108,7 @@
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="cherish" />
   <project path="packages/apps/PermissionController" name="android_packages_apps_PackageInstaller" remote="cherish" />
   <project path="packages/apps/PotatoPlugins" name="android_packages_apps_PotatoPlugins" remote="cherish" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cherish" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="nazunamoe2" />
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="cherish" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="cherish" />
   <project path="packages/apps/Stk" name="android_packages_apps_Stk" remote="cherish" />
